@@ -1,0 +1,7 @@
+C:\Users\Emre\source\repos\numberguessgame\numberguessgame\bin\Debug\numberguessgame.exe.config
+C:\Users\Emre\source\repos\numberguessgame\numberguessgame\bin\Debug\numberguessgame.exe
+C:\Users\Emre\source\repos\numberguessgame\numberguessgame\bin\Debug\numberguessgame.pdb
+C:\Users\Emre\source\repos\numberguessgame\numberguessgame\obj\Debug\numberguessgame.csprojAssemblyReference.cache
+C:\Users\Emre\source\repos\numberguessgame\numberguessgame\obj\Debug\numberguessgame.csproj.CoreCompileInputs.cache
+C:\Users\Emre\source\repos\numberguessgame\numberguessgame\obj\Debug\numberguessgame.exe
+C:\Users\Emre\source\repos\numberguessgame\numberguessgame\obj\Debug\numberguessgame.pdb
